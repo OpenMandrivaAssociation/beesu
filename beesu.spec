@@ -3,7 +3,7 @@
 Summary:	Graphical wrapper for su
 Name:		beesu
 Version:	2.7
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		System/Base
 Url:		http://www.honeybeenet.altervista.org
